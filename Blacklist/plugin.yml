@@ -1,0 +1,9 @@
+name: Blacklist
+main: com.funkemunky.Blacklist.Core
+description: Blacklist plugin for HCRiots
+version: 1.5
+author: funkemunky
+commands:
+  blacklist:
+  unblacklist:
+  checkblacklist:

@@ -1,0 +1,8 @@
+MySQL:
+  Enabled: true
+  IP: 'localhost'
+  Name: 'Blacklist'
+  Username: 'root'
+  Password: 'password'
+Strings:
+  Blacklisted_Reason: "&cYou have been &lblacklisted from &lHCRiots! \\n&f\\n&7&oReason: &c%reason%\\n&7&oStaff: %staff%\\n&f\\n&7&oAppeal at hcriots.com!"
